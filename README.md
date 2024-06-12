@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devendra Singh</h1>
-<h3 align="center">A passionate Learner</h3>
+<h1 align="center">Hi, I'm Devendra Singh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendrasingh7465&label=Profile%20views&color=0e75b6&style=flat" alt="devendrasingh7465" /> </p>
 
