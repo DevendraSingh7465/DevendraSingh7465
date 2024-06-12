@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendrasingh7465&label=Profile%20views&color=0e75b6&style=flat" alt="devendrasingh7465" /> </p>
 
-<h3 align="left">Connect with me: Email: devendrasingh7465@gmail.com</h3>
+<h3 align="left">Connect with me: <br>
+  Email: devendrasingh7465@gmail.com</h3>
 <p align="left">
 </p>
 
